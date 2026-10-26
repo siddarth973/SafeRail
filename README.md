@@ -1,5 +1,4 @@
 # SafeRail — AI Agent Safety & Control
-> **DevHost 2026 Problem Statement 2.1: AI Agent Safety and Control**
 
 SafeRail is an enterprise-grade AI safety gateway and oversight intelligence platform designed to intercept, analyze, gate, and monitor autonomous AI agent actions in real time.
 
